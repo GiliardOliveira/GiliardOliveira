@@ -1,5 +1,7 @@
 ## Giliard Oliveira 
 
+https://img.shields.io/twitter/follow/GiliardOli?label=GiliardOli&style=social
+
 <!--
 **GiliardOliveira/GiliardOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
